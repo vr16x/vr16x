@@ -31,27 +31,43 @@ I’ve built routing and execution systems integrating liquidity providers such 
 
 ---
 
-### 🏗 Protocol Architecture
+### 🏗 Protocol Architecture @ Biconomy
 
-At **Biconomy**, I contributed to the architecture of **Modular Execution Environment (MEE)** and **Supertransaction**, enabling **single-signature cross-chain transaction orchestration with account abstraction, chain abstraction, and gas abstraction across 20+ EVM chains**.
+At **Biconomy**, I help architect the infrastructure powering the platform’s **Account Abstraction and Chain Abstraction stack**, enabling developers to build seamless multi-chain applications across **20+ EVM networks**.
 
-I also contributed to **Nexus (ERC-7579)** smart accounts supporting:
+#### 🚀 Core Platform Systems
 
-* 🔐 Passkey authentication
-* 🔑 Session keys
-* 🔗 EIP-7702 delegations
-* ⚙️ Composable transaction execution
+⚡ **Modular Execution Environment (MEE)**
+Infrastructure for **single-signature cross-chain transaction orchestration**, enabling composable execution of complex workflows across multiple chains.
+
+🔗 **Supertransaction API**
+Developer platform for executing **multi-step cross-chain workflows** (eg: swap -> bridge → swap → stake) through a **single API call**.
+
+👛 **Nexus Smart Accounts (ERC-7579)**
+Modular smart contract wallets enabling **Session keys, EIP-7702 delegations, and composable transaction execution** for programmable and flexible on-chain interactions.
+
+
+⛽ **Gas Abstraction Infrastructure**
+Enabling **gasless transactions and ERC20 gas payments** through paymasters, sponsorship flows, and smart account execution, removing the need for users to hold native tokens.
+
+⚙️ **Account Abstraction Infrastructure (ERC-4337)**
+Backend systems, including **bundlers, paymasters, and relayer networks**, are powering scalable smart account execution across multiple chains.
 
 ---
 
-### 🎮 Previous Work
+### 🌉 Result
 
-Previously **Tech Lead at OP Games**, building Web3 infrastructure powering **100+ blockchain games**, including:
+Together, these systems power **cross-chain transaction orchestration and chain abstraction**, enabling developers to build seamless multi-chain applications.
 
-* 🎮 decentralized tournament protocols
-* 📊 blockchain data indexing systems
-* 🌉 omnichain ERC20 token infrastructure across **14+ chains**
-* 🧬 NFT avatar systems supporting **35,000+ variants**
+Capabilities include:
+
+* 🌉 **Single-signature cross-chain execution**
+* 🔗 **Chain abstraction across multiple networks**
+* 💱 **Composable DeFi workflows** (bridge → swap → stake → zap)
+* ⛽ **Gas abstraction with ERC20 payments and sponsored transactions**
+* 🔄 **Interoperable multi-chain applications and asset flows**
+
+Delivering **Web2-like UX for Web3**, with frictionless onboarding and seamless multi-chain interactions.
 
 ---
 
@@ -138,3 +154,16 @@ Distributed Systems • High-Performance APIs • Developer SDKs • RPC Infrast
 </p>
 
 Data Pipelines • Observability • Monitoring • Performance Optimization • Cloud Infrastructure
+
+---
+
+### 🎮 Previous Work
+
+Previously **Tech Lead at OP Games**, building Web3 infrastructure powering **100+ blockchain games**, including:
+
+* 🎮 decentralized tournament protocols
+* 📊 blockchain data indexing systems
+* 🌉 omnichain ERC20 token infrastructure across **14+ chains**
+* 🧬 NFT avatar systems supporting **35,000+ variants**
+
+---
