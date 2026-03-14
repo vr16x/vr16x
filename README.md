@@ -2,53 +2,90 @@
 
 Senior Blockchain Engineer at **Biconomy**, architecting **protocol infrastructure and distributed backend systems for cross-chain transaction orchestration, interoperability, and smart account execution**.
 
-I’ve helped design and scale systems powering:
+---
 
-⚡ **70M+ blockchain transactions**
-💰 **$2B+ transaction volume**
-🌐 **20+ EVM chains**
-👥 **4.7M+ users**
+### ⚡ Impact at Scale
+
+<p align="center">
+
+🚀 **70M+ Blockchain Transactions**
+💰 **$2B+ Transaction Volume**
+🌐 **20+ EVM Chains Supported**
+👥 **4.7M+ Users Served**
+
+</p>
+
+---
+
+### 🧩 What I Build
 
 My work focuses on building **high-performance Web3 infrastructure and protocol backend systems**, including:
 
-* **Cross-chain relayer and execution pipelines**
-* **Multi-chain transaction simulation systems**
-* **Developer-facing APIs and SDKs**
-* **Smart liquidity routing across bridges and DEXs**
-* **Blockchain indexing and event processing pipelines**
+* 🔁 **Cross-chain relayer and execution pipelines**
+* 🧪 **Multi-chain transaction simulation systems**
+* 🧰 **Developer-facing APIs and SDKs**
+* 💧 **Smart liquidity routing across bridges and DEXs**
+* 📡 **Blockchain indexing and event processing pipelines**
 
 I’ve built routing and execution systems integrating liquidity providers such as **Across, Relay, and LI.FI**, optimizing swap and bridge outcomes through intelligent path discovery and execution.
 
+---
+
+### 🏗 Protocol Architecture
+
 At **Biconomy**, I contributed to the architecture of **Modular Execution Environment (MEE)** and **Supertransaction**, enabling **single-signature cross-chain transaction orchestration with account abstraction, chain abstraction, and gas abstraction across 20+ EVM chains**.
 
-I also contributed to **Nexus (ERC-7579)** smart accounts supporting **passkey authentication, session keys, EIP-7702 delegations, and composable transaction execution**.
+I also contributed to **Nexus (ERC-7579)** smart accounts supporting:
 
-Previously as **Tech Lead at OP Games**, I built Web3 infrastructure powering **100+ blockchain games**, including:
+* 🔐 Passkey authentication
+* 🔑 Session keys
+* 🔗 EIP-7702 delegations
+* ⚙️ Composable transaction execution
 
-* decentralized tournament protocols
-* blockchain data indexing systems
-* omnichain ERC20 token infrastructure across **14+ chains**
-* NFT avatar systems supporting **35,000+ variants**
+---
+
+### 🎮 Previous Work
+
+Previously **Tech Lead at OP Games**, building Web3 infrastructure powering **100+ blockchain games**, including:
+
+* 🎮 decentralized tournament protocols
+* 📊 blockchain data indexing systems
+* 🌉 omnichain ERC20 token infrastructure across **14+ chains**
+* 🧬 NFT avatar systems supporting **35,000+ variants**
+
+---
+
+### 🧠 Deep Expertise
 
 Having owned **end-to-end multi-chain protocol development**, I’ve developed deep expertise in:
 
-* RPC mechanics and transaction lifecycle management
-* multi-chain transaction signing and execution flows
-* smart contract development and integrations
-* cross-chain relayer infrastructure
-* blockchain indexing and event processing
+* RPC mechanics and **transaction lifecycle management**
+* **Multi-chain signing and execution flows**
+* **Smart contract development and integrations**
+* **Cross-chain relayer infrastructure**
+* **Blockchain indexing and event processing**
 
 ---
 
-## 🧠 Core Expertise
+# 🧠 Core Expertise
 
-Cross-Chain Interoperability • Account Abstraction (ERC-4337 / ERC-7579 / EIP-7702) • Chain Abstraction • Smart Contract Wallets • DeFi Infrastructure • Protocol Backend Systems • Distributed Systems
+<p align="center">
+
+🌉 Cross-Chain Interoperability
+🧾 Account Abstraction (ERC-4337 / ERC-7579 / EIP-7702)
+🔗 Chain Abstraction
+👛 Smart Contract Wallets
+💱 DeFi Infrastructure
+⚙️ Protocol Backend Systems
+🌐 Distributed Systems
+
+</p>
 
 ---
 
-## 🧠 Skills & Technologies
+# 🛠 Skills & Technologies
 
-### Blockchain & Smart Contracts
+## ⛓ Blockchain & Smart Contracts
 
 <p>
 <img src="https://img.shields.io/badge/Solidity-black?logo=solidity">
@@ -65,13 +102,13 @@ Smart Contracts • Smart Contract Wallets • Account Abstraction • Gas Optim
 
 ---
 
-### Cross-Chain & Protocol Engineering
+## 🌉 Cross-Chain & Protocol Engineering
 
 Cross-Chain Protocols • Chain Abstraction • Cross-Chain Bridges • Transaction Orchestration • Relayer Infrastructure • Smart Liquidity Routing • Multi-Chain Simulation Systems • DeFi Integrations • Intent-Based Systems
 
 ---
 
-### Backend & Distributed Systems
+## ⚙️ Backend & Distributed Systems
 
 <p>
 <img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript">
@@ -88,7 +125,7 @@ Distributed Systems • High-Performance APIs • Developer SDKs • RPC Infrast
 
 ---
 
-### Infrastructure & Data
+## ☁️ Infrastructure & Data
 
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql">
