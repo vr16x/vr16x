@@ -17,9 +17,9 @@ Senior Blockchain Engineer at **Biconomy**, architecting **protocol infrastructu
 
 ---
 
-### 📜 ERC-8211: Composable Smart Batching
+### 📜 Co-author of ERC-8211: Composable Smart Batching
 
-Co-authored **ERC-8211** with **Biconomy** and the **Ethereum Foundation**, a next-generation transaction execution standard for the EVM.
+Co-authored **ERC-8211** with **Ethereum Foundation** and **Biconomy**, a next-generation transaction execution standard for the EVM.
 
 Enables **on-chain constraints, predicate checks, conditional flows, and dynamic runtime value resolution** in smart contract functions, making transaction intent verifiable, flexible, and composable at the protocol level.
 
