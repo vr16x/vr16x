@@ -9,7 +9,7 @@ Senior Blockchain Engineer at **Biconomy**, architecting **protocol infrastructu
 <p align="center">
 
 🚀 **70M+ Blockchain Transactions**
-💰 **$2B+ Transaction Volume**
+💰 **$3B+ Transaction Volume**
 🌐 **20+ EVM Chains Supported**
 👥 **4.7M+ Users Served**
 
