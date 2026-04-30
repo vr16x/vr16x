@@ -74,7 +74,7 @@ Backend systems, including **bundlers, paymasters, and relayer networks**, are p
 Integrated HyperEVM into the MEE stack, enabling yield rebalancing protocols and DeFi apps to leverage **dual-block architecture with 1-second fast block inclusion**, transaction orchestration, and on-chain policy-based automation via smart sessions, processing **$300M+ in volume**.
 
 🌉 **One-Click Cross-Chain Deposit into HyperCore:**
-Architected and built a one-click cross-chain deposit flow into Hyperliquid's HyperCore via Hyperliquid Bridge, enabling users to deposit from any EVM chain directly into their margin account — reducing multi-step onboarding to **a single API call**.
+Architected and built a one-click cross-chain deposit flow into Hyperliquid's HyperCore via Hyperliquid Bridge, enabling users to deposit from any EVM chain directly into their margin account - reducing multi-step onboarding to **a single API call**.
 
 📊 **HyperSignals Copy Trading Platform:**
 Designed and helped build the Hyperliquid integration for **HyperSignals**, a copy trading platform that monitors perp positions via HyperCore's transparent on-chain orderbook and mirrors trades with **gasless execution**, processing **$516M+ in copy trading volume**.
