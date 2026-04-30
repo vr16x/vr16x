@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Senior Blockchain Engineer at **Biconomy**, architecting **protocol infrastructure and distributed backend systems for cross-chain transaction orchestration, interoperability, and smart account execution**.
+Senior Blockchain Engineer at **Biconomy**, architecting **protocol infrastructure and distributed backend systems for cross-chain transaction orchestration, liquidity aggregation, interoperability, and smart account execution**.
 
 ---
 
@@ -12,6 +12,7 @@ Senior Blockchain Engineer at **Biconomy**, architecting **protocol infrastructu
 💰 **$3B+ Transaction Volume**
 🌐 **20+ EVM Chains Supported**
 👥 **4.7M+ Users Served**
+📈 **$816M+ in Hyperliquid Volume**
 
 </p>
 
@@ -38,32 +39,45 @@ My work focuses on building **high-performance Web3 infrastructure and protocol 
 * 🧰 **Developer-facing APIs and SDKs**
 * 💧 **Smart liquidity routing across bridges and DEXs**
 * 📡 **Blockchain indexing and event processing pipelines**
+* 📊 **On-chain orderbook integrations and perpetuals infrastructure**
 
-I’ve built routing and execution systems integrating liquidity providers such as **Across, Relay, and LI.FI**, optimizing swap and bridge outcomes through intelligent path discovery and execution.
+I've built routing and execution systems integrating liquidity providers such as **Across, Relay, and LI.FI**, optimizing swap and bridge outcomes through intelligent path discovery and execution.
 
 ---
 
 ### 🏗 Protocol Architecture @ Biconomy
 
-At **Biconomy**, I help architect the infrastructure powering the platform’s **Account Abstraction and Chain Abstraction stack**, enabling developers to build seamless multi-chain applications across **20+ EVM networks**.
+At **Biconomy**, I help architect the infrastructure powering the platform's **Account Abstraction and Chain Abstraction stack**, enabling developers to build seamless multi-chain applications across **20+ EVM networks**.
 
 #### 🚀 Core Platform Systems
 
-⚡ **Modular Execution Environment (MEE)**
+⚡ **Modular Execution Environment (MEE):**
 Infrastructure for **single-signature cross-chain transaction orchestration**, enabling composable execution of complex workflows across multiple chains.
 
-🔗 **Supertransaction API**
+🔗 **Supertransaction API:**
 Developer platform for executing **multi-step cross-chain workflows** (eg: swap -> bridge → swap → stake) through a **single API call**.
 
-👛 **Nexus Smart Accounts (ERC-7579)**
+👛 **Nexus Smart Accounts (ERC-7579):**
 Modular smart contract wallets enabling **Session keys, EIP-7702 delegations, and composable transaction execution** for programmable and flexible on-chain interactions.
 
-
-⛽ **Gas Abstraction Infrastructure**
+⛽ **Gas Abstraction Infrastructure:**
 Enabling **gasless transactions and ERC20 gas payments** through paymasters, sponsorship flows, and smart account execution, removing the need for users to hold native tokens.
 
-⚙️ **Account Abstraction Infrastructure (ERC-4337)**
+⚙️ **Account Abstraction Infrastructure (ERC-4337):**
 Backend systems, including **bundlers, paymasters, and relayer networks**, are powering scalable smart account execution across multiple chains.
+
+---
+
+#### 🔷 Hyperliquid Integration
+
+⚡ **HyperEVM Integration into MEE:**
+Integrated HyperEVM into the MEE stack, enabling yield rebalancing protocols and DeFi apps to leverage **dual-block architecture with 1-second fast block inclusion**, transaction orchestration, and on-chain policy-based automation via smart sessions, processing **$300M+ in volume**.
+
+🌉 **One-Click Cross-Chain Deposit into HyperCore:**
+Architected and built a one-click cross-chain deposit flow into Hyperliquid's HyperCore via Hyperliquid Bridge, enabling users to deposit from any EVM chain directly into their margin account — reducing multi-step onboarding to **a single API call**.
+
+📊 **HyperSignals Copy Trading Platform:**
+Designed and helped build the Hyperliquid integration for **HyperSignals**, a copy trading platform that monitors perp positions via HyperCore's transparent on-chain orderbook and mirrors trades with **gasless execution**, processing **$516M+ in copy trading volume**.
 
 ---
 
@@ -85,13 +99,15 @@ Delivering **Web2-like UX for Web3**, with frictionless onboarding and seamless 
 
 ### 🧠 Deep Expertise
 
-Having owned **end-to-end multi-chain protocol development**, I’ve developed deep expertise in:
+Having owned **end-to-end multi-chain protocol development**, I've developed deep expertise in:
 
 * RPC mechanics and **transaction lifecycle management**
 * **Multi-chain signing and execution flows**
 * **Smart contract development and integrations**
 * **Cross-chain relayer infrastructure**
 * **Blockchain indexing and event processing**
+* **On-chain orderbook integrations and perpetuals infrastructure**
+* **Copy trading systems and margin account flows**
 
 ---
 
@@ -103,9 +119,11 @@ Having owned **end-to-end multi-chain protocol development**, I’ve developed d
 🧾 Account Abstraction (ERC-4337 / ERC-7579 / EIP-7702)
 🔗 Chain Abstraction
 👛 Smart Contract Wallets
+📜 Smart Contracts
 💱 DeFi Infrastructure
 ⚙️ Protocol Backend Systems
 🌐 Distributed Systems
+📈 Perpetuals Infrastructure & On-chain Orderbook Integration
 
 </p>
 
